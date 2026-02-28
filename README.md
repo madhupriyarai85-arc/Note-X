@@ -1,2 +1,2 @@
 # Note-X
-A Notes Webaite by Me
+A Notes Website Created by Me
